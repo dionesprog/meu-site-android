@@ -80,6 +80,7 @@ nav a{
     font-family: var(--font-padrao);
     font-size: 1em;
     transition-duration: 1s;
+    margin: auto;
 }
 
 nav a:hover{

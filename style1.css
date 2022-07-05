@@ -55,6 +55,7 @@ header h1 {
     
 }
 
+/*
 header p {
     font-family: var(--font-padrao);
     font-size: 1em;
@@ -66,7 +67,7 @@ header p {
     margin-top: -15px;
     text-shadow: 2px 3px 1px black ;
 }
-
+*/
 nav {
     background-color: var(--cor4);
     font-size: 0.8em;
